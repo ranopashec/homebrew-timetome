@@ -1,6 +1,6 @@
 cask "timetome" do
-  version "1.0.0"
-  sha256 "1ec80c3e550a20a32fe651f312356cd2761fbf26dac4ac794f91c17a66104925"
+  version "1.0.1"
+  sha256 "13029a51ab032972e3966b8d7204d463c5634167439e481cf67f2e2b9e1d8a2a"
 
   url "https://github.com/ranopashec/timetome2/releases/download/v#{version}/TimeTo.zip"
   name "TimeTo"
